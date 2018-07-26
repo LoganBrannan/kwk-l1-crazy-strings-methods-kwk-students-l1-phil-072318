@@ -4,5 +4,5 @@ def crazy_strings(a,b)
  say_hello
   your_name = "Logan"
   puts "Hello #{your_name}"
-say_hello
+crazy_strings
 end
